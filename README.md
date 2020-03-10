@@ -8,4 +8,6 @@
 - run_university.py
 
 # To Run file:
-Open up run_university and run via the Terminal.
+- Open up run_university and run via the Terminal.
+- To exit, write 'Quit' (case sensitive) in either ONE of the inputs.
+    - E.g. First name = 'John' and Last name = 'Quit'
